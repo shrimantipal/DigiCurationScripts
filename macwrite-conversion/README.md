@@ -2,7 +2,6 @@
 
 ## Installations
 - Python (3.12+)
-- Jupyter Notebook
 - Unoconv Package
 
 **Universal Office Converter (unoconv)** is a command-line tool to convert any document format that LibreOffice can import to any document format that LibreOffice can export. The Python package for unoconv needs to be installed for the conversion script to work.
