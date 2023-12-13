@@ -6,7 +6,7 @@ Original code for converting a .ws file to markdown format. (Modifications were 
 
 #### Dependencies: WeasyPrint, Markdown2, GTK3
 
-####Installing WeasyPrint for your system:
+#### Installing WeasyPrint for your system:
 
 WeasyPrint is used for converting Markdown files (or other file formats) to PDFs. Only Windows 11 64-bit is supported. 
 
