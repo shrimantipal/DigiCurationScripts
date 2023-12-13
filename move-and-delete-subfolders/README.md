@@ -12,7 +12,7 @@ First we assign the value ‘\[root]’ to the variable move_up to delete all th
 
 So first:
 
-```
+```python
 start_path = r'Z:\IHLC\GreatAmericanPeopleShow - Copy\preservation' 
 move_up = '[root]' # the folder that needs to be deleted. 
 find_subfolder(start_path, move_up)
@@ -20,7 +20,7 @@ find_subfolder(start_path, move_up)
 
 And then:
 
-```
+```python
 start_path = r'Z:\IHLC\GreatAmericanPeopleShow - Copy\preservation' 
 move_up = '001' # the folder that needs to be deleted. 
 find_subfolder(start_path, move_up)
