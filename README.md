@@ -5,11 +5,11 @@ Repository containing a variety of Python scripts intended to assist with digita
 
 Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
 
-* VS Code Download Link: * https://code.visualstudio.com/download
+** VS Code Download Link: ** https://code.visualstudio.com/download
 
-* Install Python (the latest stable version) on your PC: * https://www.python.org/downloads/
+** Install Python (the latest stable version) on your PC: ** https://www.python.org/downloads/
 
-* VS Code Python extension: *
+** VS Code Python extension: **
 
 Go to the extensions section in VS Code (highlighted icon in the sidebar).
 
