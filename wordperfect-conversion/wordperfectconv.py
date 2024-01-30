@@ -7,7 +7,7 @@ print(df.head())
 
 def convert_wpd_to_pdf(input_path, output_path):
     try:
-        # Ensure the input file has a .wpd extension
+
         # if not input_path.lower().endswith(".wpd"):
         #     raise ValueError("Input file must have a .wpd extension.")
 
