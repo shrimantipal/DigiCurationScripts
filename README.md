@@ -9,6 +9,8 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 **Install Python (the latest stable version) on your PC:** https://www.python.org/downloads/
 
+Click on "Download" link for the most recent release, and from the redirected page choose the Python installer based on your System settings (eg. for a 64-bit Windows PC, pick the "Windows installer (64-bit)" option.)
+
 **VS Code Python extension:**
 
 Go to the extensions section in VS Code (highlighted icon in the sidebar).
