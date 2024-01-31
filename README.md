@@ -17,6 +17,19 @@ Go to the extensions section in VS Code (highlighted icon in the sidebar).
 
 ![Image 2](images/Picture2.png)
 
-To run a script, click on the triangle icon at the top right corner of the screen:
+### Cloning the GitHub repository:
 
-![Image 3](images/RunCode.png)
+On the main branch of the repository, click on the green 'Code' button, and then 'Download ZIP Folder':
+
+![Image 3](images/DownloadRepo.png)
+
+Once you download all the files in the repository to your PC, extract all the files to a designated folder in your PC to create a local copy of the repository (right click on the ZIP folder > "Extract All"). Launch VS Code and go to File > Open Folder (top left) and then open up the folder on VS Code:
+
+![Image 4](images/PythonCode.png)
+
+Navigate to the Python script you wish to test/run. Make sure that the name of the file ends with ".py" (eg. as illustrated above, macwriteconv.py)
+
+To run a script, click on the triangle icon at the top right corner of the screen of the VS Code Editor:
+
+![Image 5](images/RunCode.png)
+
