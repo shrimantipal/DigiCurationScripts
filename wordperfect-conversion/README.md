@@ -5,6 +5,7 @@
 ## Installations
 - Python (3.12+)
 - Unoconv Package (refer to MacWrite conversion documentation regarding Unoconv package installation)
+- LibreOffice
 - pandas
 - DROID File Identification Tool: https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/
 
