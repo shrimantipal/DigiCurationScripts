@@ -7,9 +7,13 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 **VS Code Download Link:** https://code.visualstudio.com/download
 
+**(Prerequisite) LibreOffice Download Link:** https://www.libreoffice.org/get-help/install-howto/
+
 **Install Python (the latest stable version) on your PC:** https://www.python.org/downloads/
 
-Click on the "Download" link for the most recent release, and from the redirected page choose the Python installer based on your System settings (eg. for a 64-bit Windows PC, pick the "Windows installer (64-bit)" option.)
+Click on the "Download" link for the most recent release, and from the redirected page choose the Python installer based on your System settings (eg. for a 64-bit Windows PC, pick the "Windows installer (64-bit)" option.) 
+
+Also, keep track of the folder in which Python is installed in your PC. The path to this folder may be required to run some of the scripts in this repository. In a Windows PC, it typically gets installed under Disk C > Users > (username) > AppData > Roaming (eg., C:\Users\pal10\AppData\Roaming\Python\Python312) 
 
 **VS Code Python extension:**
 
@@ -18,6 +22,22 @@ Go to the extensions section in VS Code (highlighted icon in the sidebar).
 ![Image 1](images/Picture1.png)
 
 ![Image 2](images/Picture2.png)
+
+### Some Common Python Libraries
+
+Keeping some commonly used Python libraries installed in your PC before running the scripts might be useful. Navigate to "Command Prompt" on your PC, and run the following commands to install the Python libraries:
+
+```bash
+pip install pandas
+```
+
+```bash
+pip install setuptools
+```
+
+```bash
+pip install unoconv
+```
 
 ### Cloning the GitHub repository:
 
