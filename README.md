@@ -17,3 +17,6 @@ Go to the extensions section in VS Code (highlighted icon in the sidebar).
 
 ![Image 2](images/Picture2.png)
 
+To run a script, click on the triangle icon at the top right corner of the screen:
+
+![Image 3](images/RunCode.png)
