@@ -40,4 +40,5 @@ find = 'OriginalFiles'
 find_subfolder(start_path, find)
 ```
 
+Make the change for the start_path variable, and run the script using VS Code.
 **Additional information:** WordTsar (http://wordtsar.ca/downloads/) is an open-source WordStar clone for the 21st century. It can open all .ws files in a text-based editor.
