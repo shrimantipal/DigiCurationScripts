@@ -2,9 +2,6 @@
 
 This Python script converts .ws files to .md format first (by sequentially converting each character in the .ws file) and then into .pdf format (using WeasyPrint and Markdown2). Ensure that the GitHub repository has already been cloned in your system. (Navigate to the home page of the repository > Click on the green "Code" button > Download ZIP file > Extract ZIP file contents to a specified folder in your PC). Before running the script, make sure all the dependencies are installed correctly as well.
 
-Original code for converting a .ws file to markdown format: https://github.com/kbarni/wsconvert
-
- (Modifications were required to convert files to .pdf format in bulk located in nested directories).
 
 #### Dependencies: WeasyPrint, Markdown2, GTK3
 
@@ -46,3 +43,4 @@ A test set containing WordStar files is a part of this folder. Use the path of i
 
 
 **Additional information:** WordTsar (http://wordtsar.ca/downloads/) is an open-source WordStar clone for the 21st century. It can open all .ws files in a text-based editor.
+Original code for converting a .ws file to markdown format: https://github.com/kbarni/wsconvert (Modifications were made to this to convert files to .pdf format in bulk located in nested directories).
