@@ -1,0 +1,37 @@
+
+Model: MODEL1
+NOTE: No intercept in model. R-square is redefined.
+Dependent Variable: PXD1N
+
+                             Analysis of Variance
+
+                                Sum of         Mean
+       Source          DF      Squares       Square      F Value       Prob>F
+
+       Model            9     50.84962      5.64996        3.965       0.0044
+       Error           21     29.92733      1.42511
+       U Total         30     80.77695
+
+           Root MSE       1.19378     R-square       0.6295
+           Dep Mean       0.78166     Adj R-sq       0.4707
+           C.V.         152.72272
+
+                                     SAS      11:27 Friday, April 21, 1989   4
+
+
+                             Parameter Estimates
+
+                      Parameter      Standard    T for H0:
+     Variable  DF      Estimate         Error   Parameter=0    Prob > |T|
+
+     B1         1     -0.751602    0.58523978        -1.284        0.2130
+     B2         1      0.779145    0.56916012         1.369        0.1855
+     B3         1     -0.241391    0.58523978        -0.412        0.6842
+     B4         1      2.000483    0.57699656         3.467        0.0023
+     B5         1      0.603378    0.53387465         1.130        0.2711
+     B6         1      2.176400    0.56916012         3.824        0.0010
+     T2         1      0.278315    0.49321073         0.564        0.5785
+     T3         1     -0.455627    0.49321073        -0.924        0.3661
+     T4         1      0.146684    0.46186310         0.318        0.7539
+
+

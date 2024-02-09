@@ -1,0 +1,9 @@
+<note>
+<author>Witmer, Scott</author>
+<date>08/30/2016</date>
+<comment>[1:75:3-4] [17,bad data checksum] (yellow)</comment>
+<comment>[1:76:1,4,12] [17,bad data checksum] (yellow)</comment>
+<comment>[1:77:0-3,9,12,17] [17,bad data checksum] (yellow)</comment>
+<comment>[1:78:0-7,9,11-12,16-17] [17,bad data checksum] (yellow)</comment>
+<comment>[1:79:0-10,14-17] [17,bad data checksum] (yellow)</comment>
+</note>

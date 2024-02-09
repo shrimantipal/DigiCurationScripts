@@ -1,0 +1,36 @@
+                                     SAS     14:24 Wednesday, May 17, 1989   1
+
+Model: MODEL1
+NOTE: No intercept in model. R-square is redefined.
+Dependent Variable: DAYTOU
+
+                             Analysis of Variance
+
+                                Sum of         Mean
+       Source          DF      Squares       Square      F Value       Prob>F
+
+       Model            9     54.70402      6.07822        3.949       0.0045
+       Error           21     32.32430      1.53925
+       U Total         30     87.02832
+
+           Root MSE       1.24067     R-square       0.6286
+           Dep Mean       0.84357     Adj R-sq       0.4694
+           C.V.         147.07395
+
+
+                             Parameter Estimates
+
+                      Parameter      Standard    T for H0:
+     Variable  DF      Estimate         Error   Parameter=0    Prob > |T|
+
+     B1         1     -1.131722    0.60822529        -1.861        0.0768
+     B2         1      1.753855    0.59151409         2.965        0.0074
+     B3         1      0.414119    0.60822529         0.681        0.5034
+     B4         1      1.966842    0.59965831         3.280        0.0036
+     B5         1      0.939491    0.55484278         1.693        0.1052
+     B6         1      1.075608    0.59151409         1.818        0.0833
+     T2         1     -0.398218    0.51258176        -0.777        0.4459
+     T3         1      0.456189    0.51258176         0.890        0.3836
+     T4         1     -0.564200    0.48000294        -1.175        0.2530
+
+
