@@ -1,6 +1,6 @@
 ### WordStar Conversion Script
 
-This Python script converts .ws files to .md format first (by sequentially converting each character in the .ws file) and then into .pdf format (using WeasyPrint and Markdown2).
+This Python script converts .ws files to .md format first (by sequentially converting each character in the .ws file) and then into .pdf format (using WeasyPrint and Markdown2). Ensure that the GitHub repository has already been cloned in your system. Before running the script, make sure all the dependencies are installed correctly as well.
 
 Original code for converting a .ws file to markdown format. (Modifications were required to convert files to .pdf format in bulk located in nested directories).
 
@@ -12,7 +12,7 @@ WeasyPrint is used for converting Markdown files (or other file formats) to PDFs
 
 Make sure the latest version of Python is installed. Then, download the latest GTK3 installer (https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases) and launch it. If you don’t know what some options mean, you can safely keep the default options selected.
 
-You can then install WeasyPrint in a virtual environment using pip (using Command Prompt):
+You can then install WeasyPrint in a virtual environment using pip (using Command Prompt). Run the following commands on the Command Prompt (enter one line at a time):
 
 ```bash
 python3 -m venv venv
@@ -22,8 +22,8 @@ python3 -m weasyprint –info
 ```
 
 If using ‘python3’ throws an error, try using ‘python’ instead.
-Refer to the detailed WeasyPrint installation guide here: 
 
+Refer to the detailed WeasyPrint installation guide here: 
 https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#windows
 
 WeasyPrint Python packages (run on Command Prompt):
