@@ -1,0 +1,61 @@
+.mb0
+.mt0
+.po4
+Field_Work
+
+     To investigate sport fish preference for and association 
+
+with mussel beds, fish populations over mussel beds will be 
+
+assessed and compared with populations in similar, nearby control 
+
+areas lacking mussels.  Fish collections will be made using 
+
+drifting trammel nets and electrofishing.  Both diurnal and 
+
+nocturnal collections will be made seasonally, with additional 
+
+effort in spring to determine use during spawning.  
+
+     The study will be conducted on the lower Illinois River 
+
+where hard substrates are generally lacking and mussel beds 
+
+provide a distinctive habitat.
+
+     Factors considered during site selection will include water 
+
+depth, current velocity, substrate, navigation traffic levels, 
+
+and inputs (tributaries, sewage treatment plants, etc.).  Field 
+
+work to identify and document 3-5 relatively dense mussel beds 
+
+and associated control sites should begin in spring 1987.
+
+     We anticipate the first fish collections will be in June 
+
+1987.  Initial collections will be used to determine subsequent 
+
+sample sizes necessary to reveal statistically significant 
+
+differences in fish utilization. 
+
+Laboratory_Experiments
+
+     A mussel population will be established and maintained on 
+
+one side of a raceway with a sand/silt substrate.  Using known 
+
+mussel glochidia-fish host associations, we will select 3-5 
+
+species of sport fishes likely to demonstrate a preference for 
+
+mussel beds.  Habitat preference of these fish will be determined 
+
+by video monitoring of fish position in the raceway and analysis 
+
+using a microprocessor.  Photoperiod and water temperature will 
+
+be adjusted to simulate various seasons of the year.
+

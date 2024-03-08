@@ -1,0 +1,42 @@
+.ps off
+.uj off
+.oj off
+.cw 7
+.po 8
+.pr or=l
+.pl 45
+.rm 240
+.mb 2
+
+_______________________________________________________________________________________________________________________________________________________________
+
+      Variablå
+____________________
+
+ Lubinskéa  Blodgett”b  Valuå  Uniô  Explanatioî               Lotuó Calculationb                                           Reference
+ (Basic©    (Lotus)
+_______________________________________________________________________________________________________________________________________________________________
+
+    T         tem      0.00°  oC    Temperature
+    D         DOv     13.68°  mg/l  Dissolved Oxygen
+    P         pHv      8.10°        pH
+              fwt        0.²  g     Fish WeighT
+    A         TAN     42.00°  mg/l  Total Ammonia N
+          
+    A1        pKá    10.0840        Aciä dissociatioî constanô 0.09018+2729.92/(tem+273.16)                                 Emersoî eô al®¬ 1975
+    A5        UIA     0.4313  mg/ì  Un-Ionized Ammonia N       (TAN)/(1+10^(pKa-pHv))                                       Emersoî eô al®¬ 1975
+    D1        D1v    13.6796  mg/l  DO at 100% saturation      0.97*(1/(0.07090848+(0.00207254*tem)))                       Hutchinson¬ 1957
+    D2        D2v   ±00.0000  %     DO percent saturation      (DOv/D1v)*100                                                
+    D4        D4v     1.0000        DO correction factor       (0.013297*D2v)-0.32965                                       Merkinó anä Downing¬ 1957
+    A6        ATC     0.269³  mg/l  tem/fwt corrected LC50     @if(tem<4,((10((0.026639*fwt)+(0.025353*4)-0.67645)))¬       Blodgetô (unpublished©¬ 1988 from
+                                                               @if(tem>28,((10((0.026639*fwt)+(0.025353*28)-0.67645)))¬       datá in Rosebooí anä Richey¬ 1977;                                                              ((10((0.026639*fwt)+(0.025353*tem)-0.67645)))))              
+                                                               ((10^(((0.026639*fwt)+(0.025353*tem)-0.67645))))©              Reinbolä anä Pescitelli¬ 1981
+    A8        ATD     0.269³  mg/l  DO corrected LC50          @if((ATC*D4v)<=0,0.001,(ATC*D4v))                            Merkinó anä Downing¬ 1957  
+                                                                                                                              
+    A9        TU_UA   1.6011  bguô  Un-Ionized Ammonia         (UIA/ATD)
+                                    bluegilì toxicitù unitó  
+_______________________________________________________________________________________________________________________________________________________________
+
+
+aLubinské basiã prograí (1981)
+bBlodgetô Lotuó prograí (1988)

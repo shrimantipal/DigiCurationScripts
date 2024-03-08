@@ -1,11 +1,19 @@
 import soundfile as sf
 import os
 import subprocess
+from scipy.signal import resample_poly
 
-def convert_wav_to_mp3(input_file, output_file):
+
+def convert_wav_to_mp3(input_file, output_file, target_sr=44100):
     data, samplerate = sf.read(input_file)
+    # Resample the audio data if the sample rate is not supported
+    if samplerate != target_sr:
+        num = target_sr
+        den = samplerate
+        data = resample_poly(data, num, den)
+        samplerate = target_sr
+        
     sf.write(output_file, data, samplerate, format='mp3')
-    print("Converted!")
     
 def transform_file_path(file_path):
     # Split the file path into components

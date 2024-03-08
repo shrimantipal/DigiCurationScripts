@@ -1,0 +1,447 @@
+ Directory of disk2
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+01/01/1996  12:12 AM    <DIR>          TEMP1
+01/01/1996  12:12 AM    <DIR>          DOUGS
+01/01/1996  12:13 AM    <DIR>          MUSBIB
+01/01/1996  12:13 AM    <DIR>          CBAK
+01/01/1996  12:13 AM    <DIR>          LIBRARY
+01/01/1996  12:14 AM    <DIR>          TEMPSTOR
+               0 File(s)              0 bytes
+
+ Directory of disk2\TEMP1
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+09/08/1987  04:08 PM             9,600 ES87A1.RBS
+09/08/1987  04:08 PM         1,044,480 ES87A2.RBS
+08/03/1987  03:28 PM             2,560 ES87A3.RBS
+09/14/1987  12:42 PM           310,599 ES87.WK1
+               4 File(s)      1,367,239 bytes
+
+ Directory of disk2\DOUGS
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+01/01/1996  12:12 AM    <DIR>          FLEETING
+01/01/1996  12:12 AM    <DIR>          MORBID
+01/01/1996  12:12 AM    <DIR>          MUSFISH
+01/01/1996  12:12 AM    <DIR>          DISKS
+01/01/1996  12:13 AM    <DIR>          LTER
+01/01/1996  12:13 AM    <DIR>          ILMA
+01/01/1996  12:13 AM    <DIR>          TOXINDEX
+01/01/1996  12:13 AM    <DIR>          PRESERVE
+               0 File(s)              0 bytes
+
+ Directory of disk2\DOUGS\FLEETING
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+02/27/1988  10:04 AM             1,536 F88.QRT
+03/25/1988  03:27 PM             1,408 FLEET.ABS
+03/16/1988  08:24 AM             1,280 FLTHIST.PRN
+03/15/1988  03:04 PM             2,530 FLTHIST.WK1
+02/23/1988  10:14 AM             5,120 MEARS.19F
+03/21/1988  12:14 PM             1,664 PARA
+03/25/1988  03:26 PM             1,536 TEMP
+               7 File(s)         15,074 bytes
+
+ Directory of disk2\DOUGS\MORBID
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+02/18/1988  04:36 PM             4,480 4VOGT18F
+10/28/1985  11:00 AM             1,280 86BUDGET.PRN
+10/28/1986  06:38 PM             1,135 87BUDGET.PRN
+10/28/1986  06:38 PM             3,583 87BUDGET.WK1
+10/28/1986  04:39 PM             1,135 88BUDGET.PRN
+10/28/1986  05:43 PM             3,603 88BUDGET.WK1
+12/22/1986  10:44 AM                31 APPOINT.APP
+12/23/1986  08:22 AM             3,840 DEC86.REP
+02/18/1988  04:22 PM               768 F18VOGT.LET
+02/11/1987  02:44 AM             2,688 FEB87.REP
+03/01/1988  08:26 AM             4,864 HILIGHTS
+01/15/1988  03:48 PM             1,536 J88HORNR.LET
+01/13/1988  01:10 PM             2,048 JAN88.REP
+07/13/1987  04:43 PM             1,920 JUNE87.REP
+04/01/1988  11:53 AM            11,648 MDATA1.PRN
+03/25/1988  03:17 PM             2,048 MORBID.ABS
+05/22/1987  02:29 PM             1,920 MY87MORB.REP
+03/24/1988  09:24 AM            60,704 NEWMICRO.WK1
+03/21/1988  11:53 AM             2,304 PARA
+02/11/1987  12:59 AM               256 ROOF
+02/11/1987  02:48 AM               896 ROOF.PRN
+02/11/1987  11:23 AM             2,139 ROOF.WK1
+09/18/1987  01:35 PM             2,304 SEPT87.REP
+04/01/1988  11:32 AM            11,264 TABLES.PRN
+03/24/1988  01:28 PM            16,296 TABLES.WK1
+03/25/1988  03:12 PM             2,176 TEMP
+10/28/1986  06:37 PM             1,046 TOTALBUD.PRN
+10/28/1986  06:37 PM             3,009 TOTALBUD.WK1
+12/22/1986  02:14 PM               768 VOGT1.LET
+02/11/1987  12:14 AM               768 VOGTFEB.LET
+01/13/1988  01:05 PM               896 VOGTJ88.LET
+01/01/1980  01:19 AM            26,007 MORBID.WK1
+09/28/1987  12:12 PM             9,600 MORBID1.RBS
+09/28/1987  12:12 PM             9,216 MORBID2.RBS
+09/23/1987  01:40 PM             4,096 MORBID3.RBS
+              35 File(s)        202,272 bytes
+
+ Directory of disk2\DOUGS\MUSFISH
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+01/05/1988  12:56 PM             4,736 BUDGET.INC
+02/02/1987  06:51 AM             2,688 BUDGET1.PRN
+02/09/1987  09:54 AM               768 BUDSUM.PRN
+02/09/1987  12:24 PM             2,217 BUDSUM.WK1
+02/09/1987  10:03 AM               256 CITATIO
+02/09/1987  03:14 PM               640 DOCMEMO
+12/02/1987  04:35 PM             1,664 FISHUSE.JOB
+01/15/1988  01:12 PM             1,280 GORDENJA.MEM
+01/15/1988  01:51 PM               768 J88DALEB.LET
+01/15/1988  11:38 AM             3,328 JAN88.QTR
+12/04/1987  11:01 AM             2,176 JUSTBUDS.PRN
+12/04/1987  10:39 AM             3,146 JUSTIFY.WK1
+03/25/1988  03:24 PM             1,152 MUSFISH.ABS
+11/11/1986  09:50 AM             4,352 MUSFISH.NTS
+01/11/1988  03:11 PM            18,048 MUSFISH.PRO
+11/11/1986  03:01 PM             2,560 MUSFISH.TXT
+11/11/1986  01:49 PM             1,920 MUSFISH1.PRN
+11/11/1986  05:13 PM             3,594 MUSFISH2.WK1
+11/13/1986  12:09 PM             1,792 MUSFISH3.TXT
+02/02/1987  02:16 PM             8,885 MUSFISH3.WK1
+11/11/1986  10:35 AM             5,791 MUSFISHI.WK1
+11/04/1986  03:49 PM               768 MUSNEWS
+03/21/1988  10:38 AM             1,280 PARA
+02/05/1987  01:38 AM               256 SCHED.ASC
+02/05/1987  02:50 AM             3,068 SCHED.DRW
+01/30/1987  08:25 PM             6,290 SCHEMAT.DRW
+03/23/1987  12:20 PM             6,022 SCHEMAT2.DRW
+03/25/1988  03:22 PM             1,280 TEMP
+12/03/1987  04:25 PM               128 TEST
+12/03/1987  04:26 PM               128 TT
+01/05/1988  08:59 AM             2,432 YEAR1.PRN
+02/09/1987  11:57 AM             5,345 YEAR1.WK1
+02/03/1987  12:49 AM                 0 YEAR1-3.PRN
+02/09/1987  10:46 AM             2,048 YEAR2.PRN
+02/09/1987  12:08 PM             4,929 YEAR2.WK1
+02/03/1987  12:59 AM             1,920 YEAR3.PRN
+02/03/1987  12:57 AM             4,910 YEAR3.WK1
+12/04/1987  11:10 AM             2,048 YR2REVIS.PRN
+12/04/1987  10:46 AM             5,028 YR2REVIS.WK1
+              39 File(s)        119,641 bytes
+
+ Directory of disk2\DOUGS\DISKS
+
+01/01/1996  12:12 AM    <DIR>          .
+01/01/1996  12:12 AM    <DIR>          ..
+03/04/1988  02:14 PM            24,960 BLODGETT.BAK
+03/01/1988  11:54 AM             6,912 BLODGETT.EVA
+02/26/1988  08:23 AM             1,536 BLODGETT.GOA
+03/07/1988  06:54 AM            24,960 BLODGETT.RES
+03/04/1988  10:22 AM             6,784 F27GORDN.LET
+02/09/1987  11:43 AM            15,232 KDB.RES
+01/26/1987  02:03 PM             4,736 KDB-MORE
+01/26/1987  03:56 PM             8,576 KDB-RESU.ME
+03/04/1988  12:30 PM             1,152 KDBPARA
+01/26/1987  05:09 PM             2,176 MORBID.BAK
+01/26/1987  06:38 PM             3,712 PAR4REP
+01/26/1987  03:29 PM               640 TEMP1
+03/07/1988  07:00 AM             4,480 UIMED
+03/11/1988  11:16 AM             2,816 4GLEN2.PRN
+12/23/1987  03:10 PM             6,662 4MAGLAST.WK1
+02/26/1988  12:38 PM             8,192 ASCII.WS
+01/04/1988  01:10 PM             4,608 BUDGET.INC
+03/18/1988  01:02 PM             2,176 DIVEEQP.BAK
+03/18/1988  01:11 PM             2,176 DIVEEQP.PRN
+03/18/1988  12:58 PM             3,782 DIVEEQP.WK1
+03/18/1988  08:35 AM             2,944 DIVEEQP.WKS
+03/11/1988  11:14 AM             1,536 F11KRUSE.LET
+03/23/1988  04:07 PM             1,024 FISHSWIM.LET
+01/04/1988  01:17 PM               256 HEADER
+02/27/1988  08:57 AM             2,304 ILMAABS4
+12/10/1987  03:19 PM            22,197 IRWL4M2.WK1
+12/01/1987  09:16 AM            16,611 IRWL4MA2.WK1
+12/01/1987  11:42 AM            12,160 IRWL4MAG.PRN
+12/01/1987  09:47 AM            25,064 IRWL4MAG.WK1
+01/28/1988  11:41 AM               640 J88FLT.QRT
+02/26/1988  12:28 PM             1,920 JETLET
+01/03/1980  12:26 AM             5,760 JS2
+03/16/1988  10:25 AM             2,176 LATEPREP
+03/16/1988  09:54 AM             1,664 LATEPREP.BAK
+01/11/1988  11:01 AM             3,200 LHB1.PRN
+01/04/1988  12:23 PM             6,234 LHB1.WK1
+01/11/1988  10:52 AM             2,560 LHB2.BAK
+01/11/1988  11:02 AM             2,560 LHB2.PRN
+01/04/1988  12:31 PM             5,051 LHB2.WK1
+03/16/1988  08:45 AM               896 M16FRITZ.LET
+01/11/1988  12:01 PM             5,632 MILLER.KDB
+03/04/1988  12:13 PM             1,152 MUSEQP.BAK
+03/04/1988  02:56 PM               768 MUSEQP.MEM
+01/28/1988  12:52 PM             1,024 MUSPRES.MEM
+03/16/1988  08:15 AM             3,456 MUSSUM.BAK
+03/16/1988  08:29 AM             3,456 MUSSUM.PRN
+03/15/1988  07:08 PM             4,704 MUSSUM.WK1
+12/23/1987  03:09 PM             2,028 PETELAST.PRN
+03/04/1988  12:57 PM             2,304 PHEC.ABS
+01/13/1988  03:56 PM            10,368 UMRLENT
+12/03/1987  02:21 PM             8,192 WL4PETE
+12/03/1987  03:06 PM             8,192 WL4PETE.2
+10/16/1987  09:37 AM             4,352 4USGS
+04/21/1987  04:08 PM             1,408 AP21HARR.LET
+10/19/1987  01:21 PM             1,664 ARTHUR.LET
+04/13/1987  02:32 PM               512 BOATPART
+10/21/1986  11:02 AM             3,435 CDF1.WK1
+10/21/1986  01:51 PM             1,664 CDF1-1.PRN
+10/21/1986  11:12 AM             2,936 CDF2.WK1
+10/21/1986  01:52 PM             1,280 CDF2-1.PRN
+10/21/1985  07:32 AM             2,944 CDFPRO1
+10/21/1986  02:00 PM             6,656 CDFPRO2
+02/09/1987  10:03 AM               256 CITATIO
+09/25/1986  07:54 AM             2,944 COMPUTER
+12/18/1986  06:04 PM               256 EDDY2.BLK
+01/21/1987  01:05 PM             5,062 EF.WK1
+01/21/1987  01:13 PM             3,456 EFBUD.PRN
+10/21/1986  03:58 PM             1,024 FENEMA.LET
+01/01/1980  12:12 AM             3,712 FISHFIND
+12/02/1986  05:08 PM             1,536 FLTTIME
+05/22/1987  03:19 PM             1,152 FONTS
+05/22/1987  03:15 PM               256 FONTS.BAK
+12/27/1985  09:08 AM               640 INFO
+12/18/1986  04:25 PM               384 JAHN
+02/16/1987  12:03 AM               896 LTER
+05/07/1987  11:40 AM               128 M7BOATS
+11/13/1986  09:48 AM             1,408 MARK.NOT
+12/22/1986  02:12 PM             1,024 MELMEMO
+11/06/1986  04:12 PM             1,152 MELNOTE
+02/26/1986  01:29 PM             1,280 MESINFO
+12/18/1986  11:42 AM             6,528 MORELIT
+11/11/1986  09:50 AM             4,352 MUSFISH.NTS
+11/11/1986  03:01 PM             2,560 MUSFISH.TXT
+11/11/1986  01:49 PM             1,920 MUSFISH1.PRN
+11/11/1986  05:13 PM             3,594 MUSFISH2.WK1
+11/13/1986  12:09 PM             1,792 MUSFISH3.TXT
+11/14/1986  12:21 PM             6,873 MUSFISH3.WK1
+11/11/1986  10:35 AM             5,791 MUSFISHI.WK1
+11/14/1986  11:10 PM             2,176 MUSHIST.ABS
+11/04/1986  03:49 PM               768 MUSNEWS
+04/29/1987  11:22 AM            22,144 NEWLIST4
+03/06/1987  11:16 AM               768 PICCIOLI.6FE
+11/06/1986  02:50 PM             3,542 PUTER.WK1
+11/06/1986  04:02 PM             1,920 PUTER1.PRN
+11/06/1986  03:34 PM             1,664 PUTERSEP
+12/18/1986  11:13 AM            60,672 RICKSCV
+11/11/1986  03:56 PM             1,536 RIP
+11/13/1986  04:03 PM            32,748 SCHED.WK1
+12/02/1986  04:52 PM            30,471 TIMELFT.WK1
+10/16/1985  03:52 AM             1,408 UMRBAMEM
+11/03/1986  02:48 PM               640 WATERLEV.LET
+09/19/1986  03:24 PM             6,016 WCSNEEDS
+10/25/1985  03:06 PM               896 WELCOME
+             103 File(s)        558,497 bytes
+
+ Directory of disk2\DOUGS\LTER
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+07/05/1987  08:19 PM             6,144 AUTHLIST
+06/02/1987  03:55 PM             1,280 HEAD
+07/05/1987  08:23 PM             6,016 LIST6
+07/05/1987  08:22 PM             1,152 NEW6KEY
+05/05/1987  09:28 AM            22,272 NEWLIST4
+06/29/1987  11:07 AM            22,656 NEWLIST5
+07/05/1987  08:26 PM            23,168 NEWLIST6
+06/02/1987  06:05 PM               256 TEST
+06/02/1987  05:59 PM             1,152 TEST2
+               9 File(s)         84,096 bytes
+
+ Directory of disk2\DOUGS\ILMA
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+03/16/1988  11:45 AM             2,304 ILMAABS4
+03/23/1988  02:46 PM            10,368 ILMAPAPR
+03/16/1988  01:50 PM             1,792 SLIDENOT
+               3 File(s)         14,464 bytes
+
+ Directory of disk2\DOUGS\TOXINDEX
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+03/29/1988  09:49 AM             2,944 4RIP2.BAK
+03/29/1988  10:48 AM             3,328 4RIP2.PRN
+03/25/1988  02:05 PM             1,384 A.WK1
+03/28/1988  12:29 PM            10,341 BIOASS.WK1
+03/29/1988  08:38 AM               384 HEAD
+03/28/1988  08:55 AM             1,296 MR2.PIC
+03/29/1988  08:57 AM            12,007 TOXINDEX.WK1
+03/29/1988  01:41 PM            11,818 TOXINDX2.WK1
+               8 File(s)         43,502 bytes
+
+ Directory of disk2\DOUGS\PRESERVE
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+02/17/1988  05:01 PM             6,669 ADDBUD.WK1
+02/17/1988  03:21 PM             3,584 AMENDBUD.PRN
+02/12/1988  06:04 PM             1,792 PREPROP
+02/16/1988  03:07 PM             2,176 PREPROP.MEM
+               4 File(s)         14,221 bytes
+
+ Directory of disk2\MUSBIB
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+01/14/1988  01:48 PM             6,528 DD.TXT
+02/04/1988  09:36 AM           338,048 EDIT1.TXT
+02/04/1988  09:33 AM           338,048 EDIT1.BAK
+02/09/1988  10:13 AM           118,016 NEWCIT.TXT
+02/04/1988  10:03 AM             4,480 CITREMOV
+02/04/1988  02:15 PM           114,816 NEWCIT.BAK
+02/04/1988  02:25 PM             4,224 NOT1.BAK
+02/04/1988  02:25 PM             4,224 NOT1
+               8 File(s)        928,384 bytes
+
+ Directory of disk2\CBAK
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+01/01/1996  12:13 AM    <DIR>          BATFILES
+               0 File(s)              0 bytes
+
+ Directory of disk2\CBAK\BATFILES
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+02/26/1986  11:58 AM               128 LIBRBACK.BAT
+12/19/1985  09:19 AM               128 SYSTEM.BAT
+10/25/1985  03:47 PM               128 HELP.BAT
+12/19/1985  09:16 AM               128 PHONE.BAT
+12/19/1985  10:26 AM               128 SPREAD.BAT
+02/27/1986  09:26 AM               128 BIBLIO.BAT
+12/19/1985  09:15 AM               128 MODEL.BAT
+12/19/1985  10:33 AM               128 STATS.BAT
+02/26/1986  12:45 PM               128 AUTOEXEC.BAT
+02/27/1986  09:24 AM               128 MODEM.BAT
+02/05/1986  06:05 PM               128 INMAGIC.BAT
+12/19/1985  09:14 AM               128 BBOX.BAT
+12/19/1985  09:18 AM               128 WORD.BAT
+07/01/1986  01:52 PM               128 MODAID.BAT
+02/05/1986  05:28 PM               128 LIBRARY.BAT
+06/30/1987  11:11 AM               128 R5K.BAT
+02/12/1987  02:34 PM               128 FL.BAT
+              17 File(s)          2,176 bytes
+
+ Directory of disk2\LIBRARY
+
+01/01/1996  12:13 AM    <DIR>          .
+01/01/1996  12:13 AM    <DIR>          ..
+02/05/1986  05:23 PM               128 BIBLIO.MS2
+11/06/1987  05:15 PM               640 BIBLIO.MSG
+02/03/1988  08:09 AM               768 BIBLIO.STR
+11/08/1985  11:02 AM                59 CONFIG.SYS
+04/03/1985  04:36 PM           190,464 INMAGIC.EXE
+04/03/1985  02:27 PM           173,056 INMAGIC.MSG
+02/10/1988  10:58 AM         1,696,256 LIBRARY.DAT
+02/10/1988  10:58 AM             6,160 LIBRARY.DIC
+02/10/1988  12:49 PM            14,848 LIBRARY.SRX
+02/26/1986  11:51 AM               384 LIBRBACK.BAK
+11/06/1987  05:05 PM               384 LIBRBACK.MSG
+11/06/1987  10:07 AM               128 TRANSFER.BAK
+11/06/1987  05:03 PM               128 TRANSFER.BAT
+02/10/1988  02:15 PM               328 ACT.TXT
+02/10/1988  02:16 PM             1,465 AMB.TXT
+02/10/1988  02:18 PM               187 AND.TXT
+02/10/1988  02:18 PM             5,921 ANO.TXT
+02/10/1988  02:19 PM             3,272 BEH.TXT
+02/10/1988  02:20 PM             2,839 BIB.TXT
+01/04/1988  10:45 AM             8,000 BIBLIOGR.FMT
+02/10/1988  02:21 PM             6,728 COM.TXT
+02/10/1988  02:22 PM            15,901 CONT.TXT
+02/10/1988  02:23 PM             4,046 COR.TXT
+02/10/1988  02:24 PM               898 CRA.TXT
+02/10/1988  02:24 PM               777 CYC.TXT
+02/10/1988  02:25 PM            12,411 DEN.TXT
+02/10/1988  02:29 PM            33,253 DIB.TXT
+02/10/1988  02:26 PM             2,367 DIS.TXT
+02/10/1988  02:30 PM             7,216 ECO.TXT
+02/04/1988  09:33 AM           338,048 EDIT1.BAK
+02/04/1988  09:36 AM           338,048 EDIT1.TXT
+02/10/1988  02:30 PM               302 ELS.TXT
+02/10/1988  02:31 PM             2,077 ELT.TXT
+02/10/1988  02:33 PM            10,288 ENG.TXT
+01/04/1988  10:31 AM             8,000 EXP.FMT
+02/10/1988  02:34 PM             8,926 FIL.TXT
+02/10/1988  02:35 PM             7,696 FOO.TXT
+02/10/1988  02:36 PM               378 FUS.TXT
+02/10/1988  02:37 PM            10,634 GRO.TXT
+01/04/1988  10:45 AM             8,000 IND.FMT
+02/11/1988  09:35 AM            32,256 LIBRARY.SRA
+02/11/1988  11:00 AM            64,512 LIBRARY.SRB
+02/10/1988  02:37 PM            37,888 LIBRARY.SRD
+03/11/1987  12:54 PM             8,000 LTER.FMT
+03/11/1987  03:32 PM             8,000 LTERII.FMT
+02/09/1988  10:13 AM           118,016 NEWCIT.BAK
+02/09/1988  05:53 PM           118,016 NEWCIT.TXT
+03/16/1987  10:49 AM             8,000 NEWEXP1.FMT
+02/10/1988  12:48 PM            18,107 TEST2.TXT
+02/11/1988  08:59 AM            19,853 HAB.TXT
+02/11/1988  09:01 AM             6,151 HEA.TXT
+02/11/1988  09:02 AM             5,597 HOS.TXT
+02/11/1988  09:03 AM             6,697 LAM.TXT
+02/11/1988  09:05 AM            14,547 LIF.TXT
+02/11/1988  09:06 AM             1,101 LIG.TXT
+02/11/1988  09:06 AM             1,171 MAR.TXT
+02/11/1988  09:06 AM               355 MEG.TXT
+02/11/1988  09:09 AM             9,998 MOR.TXT
+02/11/1988  09:09 AM             1,101 MUS.TXT
+02/11/1988  09:10 AM             2,668 MYT.TXT
+02/11/1988  09:10 AM               155 OBO.TXT
+02/11/1988  09:14 AM            25,432 PHY.TXT
+02/11/1988  09:15 AM               785 PLE.TXT
+02/11/1988  09:17 AM            15,417 POL.TXT
+02/11/1988  09:29 AM               483 POT.TXT
+02/11/1988  09:30 AM             5,846 PRO.TXT
+02/11/1988  09:30 AM               271 PRP.TXT
+02/11/1988  09:31 AM             3,116 REL.TXT
+02/11/1988  09:34 AM            15,672 REP.TXT
+02/11/1988  09:34 AM             3,482 SPH.TXT
+02/11/1988  09:35 AM             4,466 STR.TXT
+02/11/1988  09:39 AM            17,647 SUB.TXT
+02/11/1988  09:41 AM             6,547 TAX.TXT
+02/11/1988  09:41 AM             2,108 TRA.TXT
+02/11/1988  09:42 AM               155 TRI.TXT
+02/11/1988  09:42 AM               364 UNI.TXT
+02/11/1988  09:42 AM               756 QUA.TXT
+02/11/1988  09:43 AM               624 CUM.TXT
+02/11/1988  11:00 AM           441,360 NON.TXT
+02/11/1988  11:15 AM           453,307 MUSBIB.TXT
+              80 File(s)      4,401,436 bytes
+
+ Directory of disk2\TEMPSTOR
+
+01/01/1996  12:14 AM    <DIR>          .
+01/01/1996  12:14 AM    <DIR>          ..
+02/04/1988  02:25 PM             4,224 NOT1
+02/09/1988  10:13 AM           118,016 NEWCIT.TXT
+02/03/1988  04:23 PM               768 CITREMOV
+02/03/1988  04:27 PM               640 CITREM2
+02/03/1988  04:28 PM               896 CITREM3
+02/03/1988  04:30 PM               768 CITREM4
+02/03/1988  04:31 PM               768 CITREM5
+02/03/1988  04:32 PM               896 CITREM6
+02/04/1988  09:33 AM           338,048 EDIT1.BAK
+02/11/1988  01:59 PM             1,152 CORRECT
+02/11/1988  02:01 PM             2,304 SEACRIT.BAK
+02/11/1988  01:56 PM             1,664 MUSINST
+02/11/1988  01:59 PM             1,152 CORRECT.BAK
+02/11/1988  01:56 PM             1,664 MUSINST.BAK
+02/04/1988  09:36 AM           338,048 EDIT1.TXT
+02/11/1988  02:01 PM             2,304 SEACRIT
+              16 File(s)        813,312 bytes
+
+     Total Files Listed:
+             333 File(s)      8,564,314 bytes
+              47 Dir(s)      55,435,264 bytes free

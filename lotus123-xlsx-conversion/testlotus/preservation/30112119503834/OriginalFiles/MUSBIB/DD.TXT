@@ -1,0 +1,309 @@
+NO 3121 rs
+AU Ahlstedt, Steven A.
+ABA Ahlstedt, S.A.
+TI Twentieth century changes in the freshwater mussel fauna of the
+ Clinch River (Tennessee and Virginia).
+YR 1984.
+SUB Clinch River
+;Tennessee
+;Virginia
+;mussel
+;nongame
+PUB M.S. thesis, University of Tennessee, Knoxville, Tennessee
+PA 102 pp.
+NOT
+$
+NO 3137 rs
+AU Anderson, Richard V., and
+;William S. Vinikour.
+ABA Anderson, R.V., and
+;W.S. Vinikour.
+TI Use of molluscs as pupation sites by Oecetis inconspicua
+ (Trichoptera:  Leptoceridae).
+YR 1984.
+SUB habitat
+;mussel
+;nongame
+;substrate
+;ecology
+JN Journal of Freshwater Ecology
+JNA J. Freshwater Ecol.
+VOL 2
+ISS 5
+PA 417-422.
+NOT
+$
+NO 1624 rs
+AU Anonymous
+ABA Anon.
+TI Mussels investigations--State of West Virginia.
+YR 1972.
+SUB mussel
+;nongame
+;distribution
+PUB Center for Aquatic Biology.  Mussel Distribution and Ecology;
+ Plankton Studies.  Project No. 3-97-R-2.
+NOT
+$
+NO 722 rs
+AU Brice, J., and
+;R. Lewis.
+ABA Brice, J., and
+;R. Lewis.
+TI The pelecypod fauna of the Kankakee River near Braidwood,
+ Illinois.
+YR 1976.
+SUB Kankakee River
+;mussel
+;nongame
+PUB Commonwealth Edison Co., Project No. 550107772, Nalco
+ Environmental Sciences
+PA 14 pp.
+NOT
+$
+NO 2243 rs
+AU Cawley, Edward T.
+ABA Cawley, E.T.
+TI Report on mussel survey of pools 17,18,19, upper Mississippi
+ River.
+SUB mussel
+;nongame
+;Upper Mississippi River
+;Illinois
+PUB Environmental Research Center Loras College, Dubuque, Iowa
+ 52001.
+NOT
+$
+NO 1433 rs
+AU Clark, A.H. (ed.).
+ABA Clark, A.H. (ed.).
+TI Papers on the rare and endangered mollusks of North America.
+YR 1968.
+SUB endangered species
+;mussel
+;nongame
+JN Malacologia
+JNA Malacologia
+VOL 10
+ISS (1):
+PA 7-34.
+NOT
+$
+NO 2399 rs
+AU Curry, Mary G.,
+;Betty Everitt, and
+;Malcolm F. Vidrine.
+ABA Curry, M.G.,
+;B. Everitt, and
+;M.F. Vidrine.
+TI Haptobenthos on shells of living freshwater clams in Louisiana.
+YR 1981.
+SUB mussel
+;nongame
+;ecology
+JN The Wasmann Journal of Biology
+VOL 39
+ISS (1-2):
+PA 56-62.
+NOT
+$
+NO 3129 rs
+AU Echblad, J.W.
+ABA Echblad, J.W.
+TI The ecology of Pools 11-13 of the upper Mississippi River:  a
+ community profile.
+YR 1986.
+SUB ecology
+;Upper Mississippi River
+;mussel
+;nongame
+;habitat
+;hosts
+;endangered species
+;distribution
+PUB Fish and Wildlife Service Biological Report 85(7.8).
+PA 90 pp.
+NOT
+$
+NO 2260 rs
+AU Fritz, Arnold W.
+ABA Fritz, A.W.
+TI Summary of Illinois freshwater mussel shell harvest, 1971-1981.
+YR 1982.
+SUB mussel
+;nongame
+;commercial harvest
+;Illinois River
+;Illinois
+PUB Illinois Department of Conservation, Division of Fish and
+ Wildlife Resources.
+NOT
+$
+NO 1396 rs
+AU Fuller, S.L.H.
+ABA Fuller, S.L.H.
+TI A brief field guide to the fresh-water mussels (Mollusca:
+ Bivalvia:  Unionacea) of the Savannah River system.
+YR 1971.
+SUB mussel
+;nongame
+;Savannah River
+;Georgia
+JN The ASB Bulletin
+JNA ASB Bull.
+VOL 18
+ISS (4):
+PA 139-146.
+NOT
+$
+NO 2689 rs
+AU Fuller, S.L.H.
+ABA Fuller, S.L.H.
+TI Freshwater mussels of the Upper Mississippi River.
+YR 1985.
+SUB mussel
+;nongame
+;Upper Mississippi River
+PUB Wisconsin Department of Natural Resources, Madison, Wisconsin.
+PA 63 Pp.
+NOT
+$
+NO 199 rs
+AU Jorgensen, S.E., and
+;R.W. Sharp, (eds.).
+ABA Jorgensen, S.E., and
+;R.W. Sharp, (eds.).
+TI Proceedings of a symposium on rare and endangered mollusks
+ (Naiads) of the U.S.
+YR 1971.
+SUB mussel
+;nongame
+;endangered species
+PUB U.S. Department of the Interior, Fish and Wildlife Service,
+ Bureau of Sport Fisheries and Wildlife, Region 3, Federal Building,
+ Fort Snelling, Twin Cities, Minnesota 55111.
+PA 79 pp.
+NOT
+$
+NO 1454 rs
+AU Killingley, J.S., and
+;W.H. Berger.
+ABA Killingley, J.S., and
+;W.H. Berger.
+TI Stable isotopes in a mollusk shell:  detection of upwelling
+ events.
+YR 1979.
+SUB mussel
+;nongame
+JN Science
+JNA Science
+VOL 205
+PA 186-188.
+NOT
+$
+NO 1081 rs
+AU Labos, E.,
+;J. Salanki, and
+;G.R. Klityna.
+ABA Labos, E.,
+;J. Salanki, and
+;G.R. Klityna.
+TI The effect of cholinotropic drugs on the rhythmic activity of
+ glochidia of fresh-water mussel (Anodonta cygnea L.).
+YR 1964.
+SUB mussel
+;nongame
+;contaminants
+;pollution
+JN Acta Biologica Hung.
+JNA Acta Biol. Hung.
+VOL 15
+ISS (2):
+PA 119-128.
+NOT
+$
+NO 2900 rs
+AU Lewis, Randall B.
+ABA Lewis, R.B.
+TI Freshwater mussel survey of the Pool 15 channel improvement
+ project in the upper Mississippi River:  project no.
+ DACW25-86-Q-0206.
+YR 1986.
+SUB Cumberlandia monodonta
+;Lampsilis higginsi
+;endangered species
+;Simpsonaias ambigua
+;mussel
+;nongame
+;Upper Mississippi River
+PUB Prepared for Department of the Army, Rock Island District,
+ Corps of Engineers, Rock Island, IL.
+PA 27 pp.
+NOT
+$
+NO 3131 rs
+AU Mattice, J.S., and
+;L.L. Dye.
+ABA Mattice, J.S., and
+;L.L. Dye.
+TI Thermal tolerance of the adult Asiatic clam Corbicula manilensis
+ (Mollusca:  Bivalvia).
+YR n.d.
+SUB Corbicula manilensis
+;mussel
+;nongame
+;pollution
+;physiology
+PUB Environmental Sciences Division, Oak Ridge National Laboratory,
+ Oak Ridge, Tennessee.
+PA 17 pp.
+NOT
+$
+NO 2770 rs
+AU Paterson, C.G., and
+;I.F. Cameron.
+ABA Pateson, C.G., and
+;I.F. Cameron.
+TI Comparative energetics of two populations of the Unionid,
+ Anodonta cataracta.
+YR 1985.
+SUB mussel
+;nongame
+;Anodonta cataracta
+;food and feeding
+;physiology
+;ecology
+;filtration
+;New Brunswick
+JN Freshwater Invertebrate Biology
+JNA Freshwater Invertebr. Biol.
+VOL 4
+ISS (2):
+PA 79-90.
+NOT Differences in tissue rate accumulation between two populations
+ of the same species of mussel in New Brunswick are described.  The 
+ population in a lake with a higher seston concentration was found
+ to have a lower filtration rate, but still had a higher rate of
+ tissue accumulation.  Possible explainations for the differneces
+ in energetics of the two populations are discussed.
+$
+NO 3139 rs
+AU Wetzel, Mark J., and
+;Jeanine M.K. Berlocher.
+ABA Wetzel, M.J., and
+;J.M.K. Berlocher.
+TI Survey of Rock River mussels (Mollusca:  Unionidae) at the
+ Illinois Route 2 (FAP 742) bridge south of Grand Detour, Lee and
+ Ogle counties, Illinois.
+YR 1986.
+SUB Rock River
+;Illinois
+;mussel
+;nongame
+PUB Illinois Department of Transportation, Bureau of Location and
+ Environment, Section of Faunistic Surveys and Insect Identification
+ Technical Report (12),Springfield, IL
+PA 19 pp.
+NOT
+$
+

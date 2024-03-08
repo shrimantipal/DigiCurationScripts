@@ -1,0 +1,187 @@
+.pn 1
+.cw 10
+.ps off
+.uj off
+.rm 80
+.po 1
+.pc54
+.mt 3
+              Microbiological data from Larry Durham
+                Last updated  24-Mar-88   by KDB
+
+               Date      Date   Spec                          Species
+Row Mu£ ID£  collect     test   musl Tiss Riv Trof Cult Status Bact
+
+  1   1  24 03-Aug-87 10-Aug-87 PoOh mgut IR   6   cult mort  AeHy
+  2   1  24 03-Aug-87 10-Aug-87 PoOh mgut IR   6   cult mort  PsPu
+  3   1  24 03-Aug-87 10-Aug-87 PoOh gnad IR   6   cult mort  AeHy
+  4   1  24 03-Aug-87 10-Aug-87 PoOh mntl IR   6   cult mort  AeHy
+  5   2  37 03-Aug-87 21-Aug-87 PoAl mgut IR   6   cult mort  Grm+ pleo rods
+  6   2  37 03-Aug-87 21-Aug-87 PoAl mgut IR   6   cult mort  AeHy
+  7   2  37 03-Aug-87 21-Aug-87 PoAl mntl IR   6   cult mort  AeHy
+  8   3 101 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  AeHy
+  9   3 101 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  CiFr
+ 10   3 101 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  SaAr
+.he               Date      Date   Spec                          Species
+.h2Row Mu\#  ID\# collect     test   musl Tiss Riv Trof Cult Status Bact
+ 11   3 101 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  Grm+
+ 12   3 101 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  KlPn
+ 13   3 101 03-Aug-87 21-Aug-87 PoOh mntl IR   6   cult mort  AeHy
+ 14   4  65 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  Grm+ pleo rods
+ 15   4  65 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  AeHy
+ 16   4  65 03-Aug-87 21-Aug-87 PoOh mgut IR   6   cult mort  CiFr
+ 17   4  65 03-Aug-87 21-Aug-87 PoOh mntl IR   6   cult mort  KlPn
+ 18   4  65 03-Aug-87 21-Aug-87 PoOh mntl IR   6   cult mort  AeHy
+ 19   5  35 03-Aug-87 16-Sep-87 LeFr mntl IR   6   cult hlth  Grm+ fat rods
+ 20   5  35 03-Aug-87 16-Sep-87 LeFr mntl IR   6   cult hlth  Grm+ very long/thin pleo rods
+ 21   5  35 03-Aug-87 16-Sep-87 LeFr mntl IR   6   cult hlth  Grm+ pleo rods
+ 22   5  35 03-Aug-87 16-Sep-87 LeFr gill IR   6   cult hlth  AeHy
+ 23   5  35 03-Aug-87 16-Sep-87 LeFr gill IR   6   cult hlth  CaHo
+ 24   6  36 03-Aug-87 16-Sep-87 LeFr stom IR   6   cult hlth  FlMe
+ 25   6  36 03-Aug-87 16-Sep-87 LeFr mntl IR   6   cult hlth  ViFl
+ 26   6  36 03-Aug-87 16-Sep-87 LeFr mntl IR   6   cult hlth  Grm+ fat long rods
+ 27   6  36 03-Aug-87 16-Sep-87 LeFr gill IR   6   cult hlth  ViFl
+ 28   6  36 03-Aug-87 16-Sep-87 LeFr gill IR   6   cult hlth  AeHy
+ 29   6  36 03-Aug-87 16-Sep-87 LeFr gill IR   6   cult hlth  PlSh
+ 30   7  50 03-Aug-87 16-Sep-87 QuQu stom IR   6   cult hlth  CiFr
+ 31   7  50 03-Aug-87 16-Sep-87 QuQu mgut IR   6   cult hlth  CiFr
+ 32   7  50 03-Aug-87 16-Sep-87 QuQu mntl IR   6   cult hlth  PlSh
+ 33   7  50 03-Aug-87 16-Sep-87 QuQu gill IR   6   cult hlth  AeHy
+ 34   8  83 03-Aug-87 16-Sep-87 AmPl mntl IR   5   cult hlth  AeHy
+ 35   8  83 03-Aug-87 16-Sep-87 AmPl mntl IR   5   cult hlth  Grm+ long fat rods
+ 36   9  71 03-Aug-87 16-Sep-87 AmPl mntl IR   5   cult hlth  Grm+ long fat rods
+ 37   9  71 03-Aug-87 16-Sep-87 AmPl mntl IR   5   cult hlth  ViAl
+ 38  10 131 03-Aug-87 16-Sep-87 AmPl stom IR   5   cult hlth  PlSh
+ 39  10 131 03-Aug-87 16-Sep-87 AmPl mgut IR   5   cult hlth  AeHy
+ 40  10 131 03-Aug-87 16-Sep-87 AmPl mntl IR   5   cult hlth  AeHy
+ 41  10 131 03-Aug-87 16-Sep-87 AmPl gill IR   5   cult hlth  AeHy
+ 42   ¿  ?  03-Aug-87 16-Sep-87 ?    ?    IR   ?   cult hlth  Grm+ big fat rods
+ 43  11     23-Sep-87 23-Sep-87 AmPl mntl IR       frsh hlth  AeHy
+ 44  11     23-Sep-87 23-Sep-87 AmPl mntl IR       frsh hlth  Grm+ coccoid rods
+ 45  11     23-Sep-87 23-Sep-87 AmPl gill IR       frsh hlth  Grm+ coccoid rods
+ 46  11     23-Sep-87 23-Sep-87 AmPl stom IR       frsh hlth  AeHy
+ 47  11     23-Sep-87 23-Sep-87 AmPl stom IR       frsh hlth  Grm+ cocci-coccoid rods
+ 48  12     23-Sep-87 23-Sep-87 AmPl stom IR       frsh hlth  PsPu       diedŠ 49  12     23-Sep-87 23-Sep-87 AmPl stom IR       frsh hlth  Grm+ cocci or staph
+ 50  12     23-Sep-87 23-Sep-87 AmPl stom IR       frsh hlth  AeHy
+ 51  12     23-Sep-87 23-Sep-87 AmPl gill IR       frsh hlth  Grm+ long fat rods
+ 52  13     23-Sep-87 23-Sep-87 PoOh mntl IR       frsh hlth  Grm+ coccoid rods
+ 53  13     23-Sep-87 23-Sep-87 PoOh mntl IR       frsh hlth  Grm+ pleo rods
+ 54  13     23-Sep-87 23-Sep-87 PoOh hemo IR       frsh hlth  AeHy
+ 55  14     23-Sep-87 23-Sep-87 PoOh hemo IR       frsh hlth  FlMe
+ 56  14     23-Sep-87 23-Sep-87 PoOh hemo IR       frsh hlth  AeHy
+ 57  14     23-Sep-87 23-Sep-87 PoOh mntl IR       frsh hlth  AeHy
+ 58  14     23-Sep-87 23-Sep-87 PoOh gill IR       frsh hlth  AeHy
+ 59  15     23-Sep-87 23-Sep-87 QuQu stom IR       frsh hlth  PsPu       died
+ 60  15     23-Sep-87 23-Sep-87 QuQu stom IR       frsh hlth  Grm+ cocci/strep
+ 61  15     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  Grm+ coccoid fat rods
+ 62  15     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  PsPu
+ 63  15     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  Grm+ cocci
+ 64  16     23-Sep-87 23-Sep-87 QuQu stom IR       frsh hlth  Grm+ cocci
+ 65  16     23-Sep-87 23-Sep-87 QuQu stom IR       frsh hlth  PsPu       died
+ 66  16     23-Sep-87 23-Sep-87 QuQu stom IR       frsh hlth  AeHy
+ 67  16     23-Sep-87 23-Sep-87 QuQu gill IR       frsh hlth  Grm+ cocci
+ 68  16     23-Sep-87 23-Sep-87 QuQu mntl IR       frsh hlth  AeHy
+ 69  16     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  Grm+ giant fat straight rods
+ 70  16     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  Grm+ cocci
+ 71  16     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  PsPu
+ 72  16     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  EnAg
+ 73  16     23-Sep-87 23-Sep-87 QuQu gill IR       frsh hlth  Grm+ coccoid and pleo rods
+ 74  17     23-Sep-87 23-Sep-87 QuQu mgut IR       frsh hlth  Grm+ coccoid bacilli
+ 75  18     23-Sep-87 23-Sep-87 PoOh stom IR       frsh hlth  PlSh
+ 76  18     23-Sep-87 23-Sep-87 PoOh stom IR       frsh hlth  Grm+ Long straight pleo rods
+ 77  18     23-Sep-87 23-Sep-87 PoOh stom IR       frsh hlth  EnVu
+ 78  19     23-Sep-87 23-Sep-87 AmPl mntl IR       frsh hlth  Grm+ Coccoid bacilli
+ 79  19     23-Sep-87 23-Sep-87 AmPl mntl IR       frsh hlth  PsPu
+ 80  20     23-Sep-87 23-Sep-87 AmPl mntl IR       frsh hlth  Grm+ Long straight thin pleo rods
+ 81  21     25-Sep-87 25-Sep-87 AmPl stom MR       frsh hlth  PsAe
+ 82  21     25-Sep-87 25-Sep-87 AmPl mntl MR       frsh hlth  PsSp
+ 83  21     25-Sep-87 25-Sep-87 AmPl hemo MR       frsh hlth  SeLi
+ 84  21     25-Sep-87 25-Sep-87 AmPl hemo MR       frsh hlth  PsMa
+ 85  21     25-Sep-87 25-Sep-87 AmPl hemo MR       frsh hlth  AcLw
+ 86  22     25-Sep-87 25-Sep-87 AmPl stom MR       frsh hlth  PsSp
+ 87  22     25-Sep-87 25-Sep-87 AmPl mgut MR       frsh hlth  Grm+ Coccoid rods
+ 88  22     25-Sep-87 25-Sep-87 AmPl mgut MR       frsh hlth  PsSp
+ 89  22     25-Sep-87 25-Sep-87 AmPl mgut MR       frsh hlth  Grm+ Short pleo rods
+ 90  22     25-Sep-87 25-Sep-87 AmPl hemo MR       frsh hlth  HaAl
+ 91  22     25-Sep-87 25-Sep-87 AmPl hemo MR       frsh hlth  Grm« Pleï rods
+ 92  23     25-Sep-87 25-Sep-87 PoOh mntl MR       frsh hlth  Grm+ Coccoid rods
+ 93  23     25-Sep-87 25-Sep-87 PoOh mntl MR       frsh hlth  AcLw
+ 94  23     25-Sep-87 25-Sep-87 PoOh mntl MR       frsh hlth  Grm+ Fat coccoid rods
+ 95  23     25-Sep-87 25-Sep-87 PoOh stom MR       frsh hlth  PsSp
+ 96  24     25-Sep-87 25-Sep-87 PoOh stom MR       frsh hlth  Grm+ Grainy pleo rods
+ 97  24     25-Sep-87 25-Sep-87 PoOh mgut MR       frsh hlth  PsAe
+ 98  24     25-Sep-87 25-Sep-87 PoOh hemo MR       frsh hlth  PsAe
+ 99  24     25-Sep-87 25-Sep-87 PoOh hemo MR       frsh hlth  AeHy
+100  25     25-Sep-87 25-Sep-87 QuQu stom MR       frsh hlth  PsMa
+101  25     25-Sep-87 25-Sep-87 QuQu stom MR       frsh hlth  HaAl
+102  25     25-Sep-87 25-Sep-87 QuQu mntl MR       frsh hlth  AeHyŠ103  26     25-Sep-87 25-Sep-87 QuQu stom MR       frsh hlth  AcLw
+104  26     25-Sep-87 25-Sep-87 QuQu stom MR       frsh hlth  Grm+ coccoid rods
+105  26     25-Sep-87 25-Sep-87 QuQu mntl MR       frsh hlth  Grm+ fat coccoid rods
+106  27     25-Sep-87 25-Sep-87 LeFr hemo MR       frsh hlth  PsMa
+107  27     25-Sep-87 25-Sep-87 LeFr hemo MR       frsh hlth  AcLw
+108  27     25-Sep-87 25-Sep-87 LeFr mgut MR       frsh hlth  Grm+ Coccoid rods
+109  27     25-Sep-87 25-Sep-87 LeFr mgut MR       frsh hlth  Grm+ Fat coccoid rods
+110  28     25-Sep-87 25-Sep-87 LeFr mntl MR       frsh hlth  AcLw
+111  29 120 03-Aug-87 04-Nov-87 QuQu hemo IR  5    cult hlth  EnAg
+112  29 120 03-Aug-87 04-Nov-87 QuQu stom IR  5    cult hlth  PsPu
+113  29 120 03-Aug-87 04-Nov-87 QuQu stom IR  5    cult hlth  AeHy
+114  30 110 03-Aug-87 04-Nov-87 QuQu hemo IR  5    cult hlth  SaAr
+115  30 110 03-Aug-87 04-Nov-87 QuQu stom IR  5    cult hlth  AeHy
+116  31 212 22-Sep-87 04-Nov-87 PoOh stom IR  1    cult hlth  AeHy
+117  32  34 03-Aug-87 04-Nov-87 AmPl stom IR  6    cult hlth  AeHy
+118  33   9 03-Aug-87 09-Oct-87 PoOh hemo IR  6    cult hlth  AeHy
+119  33   9 03-Aug-87 09-Oct-87 PoOh hemo IR  6    cult hlth  PlSh
+120  33   9 03-Aug-87 09-Oct-87 PoOh stom IR  6    cult hlth  CiFr
+121  33   9 03-Aug-87 09-Oct-87 PoOh stom IR  6    cult hlth  ViFl
+122  33   9 03-Aug-87 09-Oct-87 PoOh stom IR  6    cult hlth  HaAl
+123  34  99 03-Aug-87 09-Oct-87 PoOh stom IR  5    cult hlth  PlSh
+124  35 169 17-Jul-87 08-Nov-87 AmPl hemo IR  2D   cult mort  AeHy
+125  35 169 17-Jul-87 08-Nov-87 AmPl hemo IR  2D   cult mort  EnCl
+126  35 169 17-Jul-87 08-Nov-87 AmPl stom IR  2D   cult mort  AeHy
+127  35 169 17-Jul-87 08-Nov-87 AmPl stom IR  2D   cult mort  EnCl
+.paŠ.he 
+.h2
+.op
+.po 12
+
+
+      Abbreviationó Useä Iî Datá Anä Summarù Tables
+
+
+Culô - Cultureä                      
+ culô - cultureä iî raceway             Mu£ - Musseì number  
+ frsè - fresèlù collected                
+                                        Troæ - musseì trougè (raceway)
+Riö - River                                                  
+ IÒ - Illinoió River                     Tisó - Tissue         
+ MÒ - Mississippé RIver                   stoí - stomach       
+                                          hemï ­ hemolymph     
+Staô - Status                             gnaä - gonad           
+ morô - mortality                         mntì - mantle   
+ hltè - healthy                           mguô - midguô   
+                                        
+¿ ­ unknown
+
+                                                               
+Specieó Bacô - specieó oæ bacteriá      Speã musì - specieó oæ mussel
+                                         
+ AcL÷ Acinetobacteò lwoffi               AmPl Amblemá plicata    
+ AeHy Aeromonaó hydrophilá               LeFr Leptodeá fragilis
+ CaHï Cardiobacteriuí hominis            PoOè Potamiluó ohiensis   
+ CiFò Citrobacteò freundii               PoAl Potamiluó alatus     
+ EnAç Enterobacteò agglomerans           QuQu Quadrulá quadrula       
+ EnCì Enterobacteò cloacae               
+ ÅnVõ Enterobacteò vulneris                  
+ ÆlMå Flavobacteriuí meningosepticum     
+ Grm+ Graí positivå bacteriá species         
+ HaAì Hafniá alvei
+ KlPn Klebsiellá pneumoniae       
+ PlSh Plesiomonas shigelloides
+ PsAe Pseudomonaó aeruginosa
+ PsMa Pseudomonaó maltophilia
+ PsPu Pseudomonaó putrifacienó
+ PsSp Pseudomonaó species
+ SaAò Salmonellá arizonae
+ SeLé Serratiá liquifaciens
+ ViAì Vibriï alginolyticus
+ ViFl Vibriï fluvialis           

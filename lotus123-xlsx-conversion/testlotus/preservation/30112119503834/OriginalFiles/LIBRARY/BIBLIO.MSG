@@ -1,0 +1,24 @@
+
+ ***************************************************************
+ *  TO USE INMAGIC ON THE RIVER RESEARCH LAB'S SUPER-DUPER-AT  *
+ ***************************************************************
+
+1. Make sure the Bernoulli Box is turned on.
+
+
+2. Place the Bernoulli Disk labeled LIBRARY in the top drive 
+
+   of the Bernoulli Box (Drive E) and close the latch.
+
+
+3. To transfer data to the LIBRARY database from a floppy (IF you need to)
+
+   insert the floppy containing the ASCII file in drive B and type 
+
+   TRANSFER (filename)
+
+
+4. To start the INMAGIC software program, type INMAGIC
+
+
+
