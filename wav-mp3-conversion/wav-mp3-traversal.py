@@ -16,21 +16,40 @@ def convert_wav_to_mp3(input_file, output_file, target_sr=44100):
     sf.write(output_file, data, samplerate, format='mp3')
     
 def transform_file_path(file_path):
-    # Split the file path into components
+
     components = file_path.split(os.sep)
     
-    # Find the index of 'preservation'
     preservation_index = components.index('preservation')
     
-    # Replace 'preservation' with 'access\nearline'
-    components[preservation_index] = r"access\nearline"
-    access = r"access\nearline"
+    components[preservation_index] = r"access/nearline"
+    access = r"access/nearline"
     
-    # Join the components back into a file path
     new_file_path = os.sep.join(components[:-1])  # Remove the last directory
-    new_file_path = os.path.join(new_file_path, access)
+    #new_file_path = os.path.join(new_file_path, access)
     print(new_file_path)
     return new_file_path
+
+def find_subfolder(dup):
+
+    if not os.path.exists(start_path):
+        print(f"Path {start_path} does not exist.")
+        return []
+
+    contents = os.listdir(dup)
+
+    for content in contents:
+        
+        content_path = os.path.join(dup, content)
+        
+        if os.path.isdir(content_path):
+            print(f"Entering subfolder: {content_path}")
+            create = content_path.replace("preservation", "access/nearline")
+            os.makedirs(create, exist_ok=True)
+            find_subfolder(content_path)
+
+        else:
+            print(os.path.dirname(content_path))
+
 
 def convert_files(folder_path):
     # Check if the specified folder exists
@@ -64,4 +83,5 @@ def convert_files(folder_path):
                 print("Could not convert!")
                 
 start_path = r'C:\Users\pal10\Downloads\2620157\2620157\preservation' # root path variable, has to be changed FIRST.
+find_subfolder(start_path)
 convert_files(start_path)
