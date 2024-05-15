@@ -1,3 +1,5 @@
+## Combined File Conversion Tool
+
 This is an interface for the combined conversions script that I created. It serves as a conversion tool for performing the following types of file conversions:
 
 -	WordStar to PDF
