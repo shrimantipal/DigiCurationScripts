@@ -24,7 +24,7 @@ Click on the browse button:
 
 Make sure you choose a folder that is called “preservation” for the tool to work. My suggestion is if you do not have an existing preservation folder, to create a new one to put your other files/folder in it.
 
-![SelectFolder](images/preservation.png)
+![SelectFolder](../images/preservation.png)
 
 Next, click on the drop down to choose one of the conversion options, and click on the Convert button.
 
