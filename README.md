@@ -17,7 +17,7 @@ Also, keep track of the folder in which Python is installed in your PC. The path
 
 **VS Code Python extension:**
 
-Go to the extensions section in VS Code (highlighted icon in the sidebar).
+Go to the extensions section in VS Code (highlighted icon in the sidebar). Install the Python extension for VS Code.
 
 ![Image 1](images/Picture1.png)
 
