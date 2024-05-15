@@ -3,7 +3,7 @@ Repository containing a variety of Python scripts intended to assist with digita
 
 ### Setup Visual Studio Code
 
-Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. Use VS Code for running all the scripts in the repository.
 
 **VS Code Download Link:** https://code.visualstudio.com/download
 
