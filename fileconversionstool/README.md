@@ -16,7 +16,7 @@ Once you have ensured Python and VSCode are installed in your system, open up th
 
 After the “install.py” script has been run (which installs the required dependencies in your system), go to the file called “conversions.py” and run it. Running it should launch an interface in your system in a new window.
 
-[!NewInterface](../images/newinterface.png)
+[!New](../images/newinterface.png)
 
 Click on the browse button:
 
