@@ -18,6 +18,7 @@ After the “install.py” script has been run (which installs the required depe
 
 [!New](../images/newinterface.png)
 
+
 Click on the browse button:
 
 ![Browse](../images/hitbrowse.png)
