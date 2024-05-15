@@ -15,10 +15,9 @@ def find_subfolder(start_path):
     if not os.path.exists(start_path):
         print(f"Path {start_path} does not exist.")
         return []
-
     root_contents = os.listdir(start_path)
-
     for content in root_contents:
+        #if(content.endswith('.doc')):
         content_path = os.path.join(start_path, content)
         # new_path = os.path.join(os.path.dirname(folder_path), content)
         content_name = content.replace('.doc', '')
@@ -27,5 +26,5 @@ def find_subfolder(start_path):
         print(pdf_path)
         convert_doc_to_pdf(content_path, pdf_path)
         
-start_path = r'C:\Users\pal10\Desktop\Nora\preservation2' 
+start_path = r'C:\Users\pal10\Desktop\Nora\preservationpy' 
 find_subfolder(start_path)
