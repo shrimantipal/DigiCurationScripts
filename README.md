@@ -41,6 +41,8 @@ pip install unoconv
 
 ### Cloning the GitHub repository:
 
+You need to download this repository in your machine to run the code.
+
 On the main branch of the repository, click on the green 'Code' button, and then 'Download ZIP Folder':
 
 ![Image 3](images/DownloadRepo.png)
